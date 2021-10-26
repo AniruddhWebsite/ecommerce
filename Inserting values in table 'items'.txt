@@ -1,0 +1,23 @@
+INSERT INTO store.items (id, name, price) VALUES (1, 'Canon EOS', 36000);
+
+INSERT INTO store.items (id, name, price) VALUES ('Sony DSLR', 40000);
+
+INSERT INTO store.items (name, price) VALUES ('Sony DSLR', 50000);
+
+INSERT INTO store.items (name, price) VALUES ('Olympus DSLR', 80000);
+
+INSERT INTO store.items (name, price) VALUES ('Titan Model #301', 13000);
+
+INSERT INTO store.items (name, price) VALUES ('Titan Model #201', 3000);
+
+INSERT INTO store.items (name, price) VALUES ('HMT Milan', 8000);
+
+INSERT INTO store.items (name, price) VALUES ('Faber Luba #111', 18000);
+
+INSERT INTO store.items (name, price) VALUES ('H&W', 800);
+
+INSERT INTO store.items (name, price) VALUES ('Luis Phil', 1000);
+
+INSERT INTO store.items (name, price) VALUES ('John Zok', 1500);
+
+INSERT INTO store.items (name, price) VALUES ('Jhalsani', 1300);
